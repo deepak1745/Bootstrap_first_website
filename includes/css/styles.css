@@ -134,6 +134,9 @@ Layout
   .fa::after{
     content: content: "\00a0";
   }
+  .heading{
+    text-align: center;
+  }
   .subheading{
     margin-left:0px;
     font-weight: 500px;
